@@ -72,6 +72,8 @@ I specialize in building robust and elegant interfaces that elevate the user exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="40" alt="javascript logo"  />
 </div>
 
 ## Languages and Tools  
