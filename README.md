@@ -6,8 +6,6 @@
 <a href="https://linkedin.com/in/joseph avila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph avila" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvilaJoseph&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AvilaJoseph stats card" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
