@@ -49,6 +49,8 @@ I specialize in building robust and elegant interfaces that elevate the user exp
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="40" alt="javascript logo"  />
 
 </div>
 
