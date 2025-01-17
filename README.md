@@ -30,9 +30,7 @@ I specialize in building robust and elegant interfaces that elevate the user exp
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
