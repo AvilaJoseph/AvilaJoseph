@@ -6,15 +6,36 @@
 <a href="https://linkedin.com/in/joseph-avila-88ba86279" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I'm a frontend developer who has turned years of experience in web and mobile development into an exciting career path. My specialization in frontend technologies allows me to create not only captivating web applications, but also develop cross-platform mobile experiences using the latest technologies such as React Native and Flutter.
 
 I specialize in building robust and elegant interfaces that elevate the user experience to the next level. I am passionate about designing systems that are light but powerful, responsive but fast, and beautiful but functional. I continually explore and write about the world of frontend development, covering topics such as application architecture, design patterns, performance optimization, and emerging technologies such as PWA and the latest features of modern frameworks.
 <br/>  
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [Plataforma 50](https://www.plataforma50.com/)  
+  
+
+- 🌱 I’m currently learning Angular  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
 <h3 align="left">Frontend Development</h3>
 
 ###
