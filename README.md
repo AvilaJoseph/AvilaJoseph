@@ -13,24 +13,15 @@ I'm a frontend developer who has turned years of experience in web and mobile de
 I specialize in building robust and elegant interfaces that elevate the user experience to the next level. I am passionate about designing systems that are light but powerful, responsive but fast, and beautiful but functional. I continually explore and write about the world of frontend development, covering topics such as application architecture, design patterns, performance optimization, and emerging technologies such as PWA and the latest features of modern frameworks.
 <br/>  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## 🔥 Rapidfire
 
-- 🔭 I’m currently working on [Plataforma 50](https://www.plataforma50.com/) and [Sena TecnoParque Atlantico](https://www.instagram.com/tecnoparqueatl/)
-  
+- 🔭 I'm currently working on [Plataforma 50](https://www.plataforma50.com/) and [Sena TecnoParque Atlantico](https://www.instagram.com/tecnoparqueatl/)
 
-- 🌱 I’m currently learning Angular  
-  
+- 🌱 I'm currently learning Angular
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-</table>  
+- ⚡ Fun fact: I keep night shift switched on at all times
 
 <br/>  
 
