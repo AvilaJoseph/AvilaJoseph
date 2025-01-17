@@ -85,11 +85,11 @@ I specialize in building robust and elegant interfaces that elevate the user exp
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaJoseph&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaJoseph&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AvilaJoseph&&style=flat-square" align="center" />
