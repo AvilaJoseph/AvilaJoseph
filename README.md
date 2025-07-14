@@ -15,7 +15,7 @@ I specialize in building robust and elegant interfaces that elevate the user exp
 
 ## 🔥 Rapidfire
 
-- 🔭 I'm currently working on [Plataforma 50](https://www.plataforma50.com/) and [Sena TecnoParque Atlantico](https://www.instagram.com/tecnoparqueatl/)
+- 🔭 I'm currently working on [Sena TecnoParque Atlantico](https://www.instagram.com/tecnoparqueatl/)
 
 - 🌱 I'm currently learning Angular
 
