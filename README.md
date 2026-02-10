@@ -18,20 +18,11 @@ Some stuff I built:
 - **[AGROJAM SENA – Event Landing Page](https://tesorostpatl.com.co/agrojam/)**  
   Official landing page for an innovation event, focused on registration, agenda, sponsors, countdown, and user experience.
 
-- **[AGROJAM SENA – Evaluation Platform](https://tesorostpatl.com.co/agrojam/admin)**  
-  Internal platform for jury assignment, project evaluation, scoring, and result consolidation across multiple editions.
-
 - **[Las Melinas – Natural Refuge](https://tesorostpatl.com.co/melinas/)**  
   Promotional website for a rural eco-tourism project, highlighting lodging, activities, biodiversity, and conservation.
 
-- **[Fondo Emprender – Attendance & Registry System](https://tesorostpatl.com.co/emprende_atlantico/login.php)**  
-  System for participant registration, attendance tracking, content management, and operational follow-up.
-
 - **[Regional Marketplace – Atlántico](https://tesorostpatl.com.co/market/tienda)**  
   Marketplace connecting regional entrepreneurs, focused on direct sales, usability, and performance.
-
-- **[Entrepreneur Network Platform – SENA](https://tesorostpatl.com.com/redemprendedores/tienda)**  
-  National-scale marketplace connecting 5k+ entrepreneurs with authentication, profiles, and admin panels.
 
 - **[E-learning Platform – Cormagdalena](https://g.gemini50.com/moodle/)**  
   Custom LMS with academic tracking, evaluations, and responsive design for 500+ users.
