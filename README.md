@@ -1,79 +1,70 @@
-### Hey 👋 I'm Joseph Avila  
+Hi there 👋  
+I'm **Joseph Avila**, a fullstack software developer.
 
-**Fullstack Software Developer | Java & Spring Boot | Angular**
+I build **production-ready backend systems** and **clean frontend applications**, focusing on scalability, clarity, and long-term maintainability.
 
-<a href="https://linkedin.com/in/joseph-avila-88ba86279" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://avilajosephportofolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+I enjoy working on platforms with real users — authentication, APIs, dashboards, and business workflows.
 
 ---
 
-### 🚀 About Me
+### These days I’m focused on
 
-I'm an **Independent Fullstack Software Developer** with a strong backend focus on **Java and Spring Boot**, and solid experience building frontend applications with **Angular**.
-
-I specialize in designing **scalable REST APIs**, secure authentication systems, and clean architectures that simulate real-world enterprise systems. I focus on **clean code, clear documentation, and production-ready solutions**.
-
----
-
-### 🔥 What I’m Doing
-
-- 🔭 Working as a **freelance fullstack developer**
-- 🌱 Improving my skills in **Spring Boot, Security, and Angular**
-- 💬 Ask me about **Java, backend architecture, REST APIs, and fullstack applications**
-- ⚡ Fun fact: Dark mode is always ON
+- Java & Spring Boot (REST APIs, clean architecture)
+- Angular and modern frontend development
+- Designing fullstack systems end-to-end
+- Freelance and personal projects with real-world scope
 
 ---
 
-### 🧩 Tech Stack
+### Some things I’ve built
 
-#### Backend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-</div>
+- **[AgroJam – Event Platform](https://tesorostpatl.com.co/agrojam/)**  
+  Public event landing page and internal evaluation system for participants, juries, scoring workflows, and annual editions.
 
-#### Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-</div>
+- **[Regional Marketplace](https://tesorostpatl.com.co/market/tienda)**  
+  Marketplace platform connecting local entrepreneurs, focused on usability, performance, and direct sales.
 
-#### Databases & Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</div>
+- **[Entrepreneur Network Platform](https://tesorostpatl.com.com/redemprendedores/tienda)**  
+  National-scale marketplace system with authentication, profile management, admin panels, and secure data handling.
+
+- **[Fondo Emprender – Attendance & Registration System](https://tesorostpatl.com.co/emprende_atlantico/login.php)**  
+  Internal platform for event registration, attendance tracking, content management, and operational follow-up.
+
+- **[E-learning Platform – Cormagdalena](https://g.gemini50.com/moodle/)**  
+  Custom LMS with academic tracking, evaluations, and responsive interface for hundreds of users.
 
 ---
 
-### 📊 GitHub Stats
+### Tech I work with
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AvilaJoseph&show_icons=true&count_private=true&hide_border=true" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaJoseph&layout=compact&hide_border=true" />
-</td>
-</tr>
-</table>
+**Backend**
+- Java (SE, EE, learning Spring Boot)
+- REST API design
+- Node.js (API integration)
+- PHP (custom platforms & APIs)
+
+**Frontend**
+- Angular
+- JavaScript / TypeScript
+- HTML & CSS
+- Responsive, user-focused UI
+
+**Databases & Tools**
+- MySQL
+- MongoDB
+- Git
+- Linux
+- Agile methodologies
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AvilaJoseph&style=flat-square" />
-</div>
+### Fun facts
+
+- Dark mode is always on  
+- I prefer building real systems over toy demos  
+- Anime & gym keep me balanced  
+
+---
+
+📌 Portfolio: https://avilajosephportofolio.netlify.app/  
+🔗 LinkedIn: https://linkedin.com/in/joseph-avila-88ba86279
