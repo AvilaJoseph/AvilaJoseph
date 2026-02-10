@@ -1,24 +1,29 @@
-### Hey 👋, I'm Joseph Avila
+### Hey 👋 I'm Joseph Avila  
+
+**Fullstack Software Developer | Java & Spring Boot | Angular**
 
 <a href="https://linkedin.com/in/joseph-avila-88ba86279" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://avilajosephportofolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Fullstack Software Developer** with a strong focus on **backend development using Java and Spring Boot**, and solid experience building frontend applications with **Angular**.
+I'm an **Independent Fullstack Software Developer** with a strong backend focus on **Java and Spring Boot**, and solid experience building frontend applications with **Angular**.
 
-I enjoy designing **scalable APIs**, secure authentication systems, and clean architectures that simulate real-world enterprise applications. I focus on writing maintainable code, clear documentation, and delivering complete solutions — not just demos.
+I specialize in designing **scalable REST APIs**, secure authentication systems, and clean architectures that simulate real-world enterprise systems. I focus on **clean code, clear documentation, and production-ready solutions**.
 
 ---
 
-### 🔥 Rapid Facts
+### 🔥 What I’m Doing
 
-- 🔭 Currently working on projects related to **SENA TecnoParque**
-- 🌱 Learning and deepening knowledge in **Spring Boot & Angular**
-- 💬 Ask me about **Java, REST APIs, backend architecture, and fullstack development**
+- 🔭 Working as a **freelance fullstack developer**
+- 🌱 Improving my skills in **Spring Boot, Security, and Angular**
+- 💬 Ask me about **Java, backend architecture, REST APIs, and fullstack applications**
 - ⚡ Fun fact: Dark mode is always ON
 
 ---
