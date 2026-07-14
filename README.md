@@ -7,11 +7,11 @@ These days I’m focused on:
 - Freelance and production-ready projects
 ---
 ### Tech stack
-*Languages:* JavaScript, Java, PHP  
-*Frontend:* React, Next.js, Angular, HTML5, CSS3, TailwindCSS  
-*Backend:* Node.js, Java (Jakarta EE / Spring Boot), PHP / PHPRunner, REST APIs  
-*Databases:* MySQL, MongoDB  
-*Tools:* Git, Linux, Agile / Scrum
+Languages: JavaScript, Java, PHP  
+Frontend: React, Next.js, Angular, HTML5, CSS3, TailwindCSS  
+Backend: Node.js, Java (Jakarta EE / Spring Boot), PHP / PHPRunner, REST APIs  
+Databases: MySQL, MongoDB  
+Tools: Git, Linux, Agile / Scrum
 ---
 ### Some stuff I built
 - **[Agrojam SENA – Event Landing Page](https://tesorostpatl.com.co/agrojam/)**  
