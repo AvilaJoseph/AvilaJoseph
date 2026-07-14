@@ -12,13 +12,13 @@ Full-stack software developer focused on building scalable, production-ready sys
 
 ## Featured Work
 
-| Project | Type | Details |
-|---------|------|---------|
-| **Agrojam SENA** | Event Landing | Registration, agenda, sponsors, countdown — official innovation event page |
-| **Las Melinas** | Eco-tourism Site | Lodging, activities, biodiversity info for rural conservation project |
-| **Regional Marketplace** | B2B Platform | Direct sales platform connecting entrepreneurs across Atlántico |
-| **Cormagdalena LMS** | E-learning Platform | Custom learning management system, 500+ active users |
-| **Plataforma50** | Corporate Site | SEO-optimized landing page with performance improvements |
+| Project | Type | Link |
+|---------|------|------|
+| **Agrojam SENA** | Event Landing | [tesorostpatl.com.co/agrojam](https://tesorostpatl.com.co/agrojam/) |
+| **Las Melinas** | Eco-tourism Site | [tesorostpatl.com.co/melinas](https://tesorostpatl.com.co/melinas/) |
+| **Regional Marketplace** | B2B Platform | [tesorostpatl.com.co/market](https://tesorostpatl.com.co/market/tienda) |
+| **Cormagdalena LMS** | E-learning Platform | [g.gemini50.com/moodle](https://g.gemini50.com/moodle/) — 500+ users |
+| **Plataforma50** | Corporate Site | [plataforma50.com](https://www.plataforma50.com/) |
 
 ## What I Focus On
 
